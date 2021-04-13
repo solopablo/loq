@@ -4,7 +4,7 @@ title: Cocina
 
 ## Masa madre
 ### Ingredientes
-Harina (integral orgánica mejor)
+#### Harina (integral orgánica mejor)
 Agua (mineral, filtrada, etc.)
 Un frasco grande
 ### Proceso
