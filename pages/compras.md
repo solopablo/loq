@@ -27,9 +27,8 @@ title: Compras
 :PROPERTIES:
 :todo: 1618342001754
 :END:
-##
-## TODO Harina orgánica buena
+## Almacen
+### TODO Harina orgánica buena
 :PROPERTIES:
 :todo: 1618342094033
 :END:
-##
