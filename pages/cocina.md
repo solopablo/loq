@@ -4,4 +4,5 @@ title: Cocina
 
 ## Masa madre
 ### Harina (integral orgánica mejor)
-Agua buena
+Agua (mineral, filtrada, etc.)
+### 1 día 25g
