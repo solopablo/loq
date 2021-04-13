@@ -10,7 +10,8 @@ title: Compras
 :PROPERTIES:
 :todo: 1618341994167
 :END:
-## TODO 
+## TODO Hilo para cortina y remeras grises
 :PROPERTIES:
 :todo: 1618342001754
 :END:
+##
