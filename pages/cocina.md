@@ -47,5 +47,6 @@ Amasar y agregar por último la grasa. Estirar 2mm y cortar. Cocinar en horno a 
 10g sal
 30g azúcar
 40g levadura fresca o 15g seca
-
+130g huevos -aprox 2u-
+180g agua
 #+END_NOTE
