@@ -65,4 +65,5 @@ Incorporar grasa al final y pesar los bollos 80-110g
 22-28g sal -aprox-
 #+END_NOTE
 ### Proceso
+Iniciar desde el agua
 ##
