@@ -65,5 +65,5 @@ Incorporar grasa al final y pesar los bollos 80-110g
 22-28g sal -aprox-
 #+END_NOTE
 ### Proceso
-Iniciar desde el agua. Amasar de abajo arriba para incorporar aire. Tapar y dejar descansar 2 o 3 horas.
+Iniciar desde el agua. Amasar de abajo arriba para incorporar aire. Tapar y dejar descansar 2 o 3 horas. Hacer bollos y llevar a heladera 24hs. Estirar los bollos a temperatura ambiente.
 ##
