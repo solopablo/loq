@@ -24,4 +24,4 @@ Durante siete días repetir el mismo procedimiento.
 10g sal
 50g grasa
 ###### Proceso
-Amasar y agregar por último la grasa.
+Amasar y agregar por último la grasa. Estirar 2mm y cortar. Cocinar en horno
