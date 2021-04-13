@@ -19,4 +19,5 @@ Durante siete días repetir el mismo procedimiento.
 ##### Probar de hacer pan, pizza, pero agregar 1gr de levadura.
 ##### O hacer crackers
 ###### Ingredientes
-1kg masa madre
+500g masa madre
+250g harina (integral, común, etc.)
