@@ -58,3 +58,8 @@ Incorporar grasa al final y pesar los bollos 80-110g
 ### Otro más completo
 {{{youtube 8INHpg6ucS4}}}
 ## Pizza napolitana
+#+BEGIN_NOTE
+1k harina
+55-60%hidratación
+
+#+END_NOTE
