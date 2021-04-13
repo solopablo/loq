@@ -28,11 +28,8 @@ Amasar y agregar por último la grasa. Estirar 2mm y cortar. Cocinar en horno a 
 ###### Video original: https://www.youtube.com/watch?v=VFHk1FWSeic
 ## Pan con [[Masa madre]] con/sin molde, con/sin semillas
 ### Ingredientes
-20g sal
-500g leche
-2 huevos (entre leche y huevos son 600g líquidos)
-100g manteca
-200g masa madre: 
+:PROPERTIES:
+:aeu: 
 :END:
 1k harina
 20g sal
