@@ -30,7 +30,7 @@ Durante siete días repetir el mismo procedimiento.
 Amasar y agregar por último la grasa. Estirar 2mm y cortar. Cocinar en horno a 180-200º. Se le pueden agregar semillas y presionar con palote.
 ###### Video original: https://www.youtube.com/watch?v=VFHk1FWSeic
 ## Pan con ((6075cfc6-9aa7-40b0-852e-7844e19577a2)) con/sin molde, con/sin semillas.
-#+BEGIN_TIP
+#+BEGIN_INFO
 1k harina
 20g sal
 500g leche
