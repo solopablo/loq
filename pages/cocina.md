@@ -37,4 +37,4 @@ Amasar y agregar por último la grasa. Estirar 2mm y cortar. Cocinar en horno a 
 2 huevos (entre leche y huevos son 600g líquidos)
 100g manteca
 200g masa madre
-#### Video con receta: {{{}}}https://www.youtube.com/watch?v=9ur9iB9HkcI
+#### Video con receta: {{{https://www.youtube.com/watch?v=9ur9iB9HkcI}}}
