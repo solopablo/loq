@@ -46,5 +46,6 @@ Amasar y agregar por último la grasa. Estirar 2mm y cortar. Cocinar en horno a 
 450g harina
 10g sal
 30g azúcar
-40
+40g levadura fresca o 15g seca
+
 #+END_NOTE
