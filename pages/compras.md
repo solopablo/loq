@@ -2,4 +2,4 @@
 title: Compras
 ---
 
-## {{query uao}}
+## {{query uao}} aoeu
