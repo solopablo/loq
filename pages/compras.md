@@ -14,6 +14,14 @@ title: Compras
 :PROPERTIES:
 :todo: 1618341994167
 :END:
+## TODO Perlita
+:PROPERTIES:
+:todo: 1618348068795
+:END:
+## TODO 
+:PROPERTIES:
+:todo: 1618348085822
+:END:
 ## TODO Hilo para cortina y remeras grises
 :PROPERTIES:
 :todo: 1618342001754
