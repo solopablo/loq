@@ -17,7 +17,7 @@ Durante siete días repetir el mismo procedimiento.
 ##### Se puede alimentar la noche anterior al uso.
 ### Qué hacer con el primer sobrante
 #### Probar de hacer pan, pizza, pero agregar 1gr de levadura.
-#### O hacer crackers (masa que sirve para empanadas y tartas)
+#### O hacer crackers (masa que sirve para empanadas y tartas) https://www.youtube.com/watch?v=VFHk1FWSeic
 ##### Ingredientes
 500g masa madre
 250g harina (integral, común, etc.) Con estos dos ingredientes tenemos 500g harina y 250g agua.
