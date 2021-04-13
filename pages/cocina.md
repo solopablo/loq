@@ -51,4 +51,7 @@ Amasar y agregar por último la grasa. Estirar 2mm y cortar. Cocinar en horno a 
 30g aceite
 Incorporar grasa al final y pesar los bollos 80-110g
 #+END_NOTE
-### Video original: {{{youtube Opw7GFIIphk}}}
+### Video original:
+{{{youtube Opw7GFIIphk}}}
+### Otro más completo
+{{{youtube 8INHpg6ucS4}}}
