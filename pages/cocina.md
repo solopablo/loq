@@ -28,9 +28,7 @@ Amasar y agregar por último la grasa. Estirar 2mm y cortar. Cocinar en horno a 
 ###### Video original: https://www.youtube.com/watch?v=VFHk1FWSeic
 ## Pan con [[Masa madre]] con/sin molde, con/sin semillas
 ### Ingredientes
-:PROPERTIES:
-:aeu: 
-:END:
+### :END:
 1k harina
 20g sal
 500g leche
