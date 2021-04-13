@@ -28,7 +28,7 @@ Durante siete días repetir el mismo procedimiento.
 50g grasa
 ##### Proceso
 Amasar y agregar por último la grasa. Estirar 2mm y cortar. Cocinar en horno a 180-200º. Se le pueden agregar semillas y presionar con palote.
-###### Video original
+##### Video original
 {{{youtube VFHk1FWSeic}}}
 ## Pan con ((6075cfc6-9aa7-40b0-852e-7844e19577a2)) con/sin molde, con/sin semillas.
 #+BEGIN_NOTE
