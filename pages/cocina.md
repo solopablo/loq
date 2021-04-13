@@ -61,5 +61,5 @@ Incorporar grasa al final y pesar los bollos 80-110g
 #+BEGIN_NOTE
 1k harina
 55-60%hidratación
-
+3g levadura
 #+END_NOTE
