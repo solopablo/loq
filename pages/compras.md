@@ -2,10 +2,11 @@
 title: Compras
 ---
 
-## TODO Tijera poda curva y recta
+## 
 :PROPERTIES:
 :todo: 1618341745902
 :END:
+## TODO Tijera poda curva y recta
 ## TODO Pala chica
 :PROPERTIES:
 :todo: 1618347774996
