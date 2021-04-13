@@ -31,6 +31,6 @@ Amasar y agregar por último la grasa. Estirar 2mm y cortar. Cocinar en horno a 
 1k harina
 20g sal
 500g leche
-2 huevos
+2 huevos (entre leche y huevos son 600g líquidos)
 100g manteca
 200g masa madre
