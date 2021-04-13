@@ -40,8 +40,7 @@ Amasar y agregar por último la grasa. Estirar 2mm y cortar. Cocinar en horno a 
 #### Video con receta
 {{{youtube 9ur9iB9HkcI}}}
 ## Pan de papa para hamburguesa
-### Ingredientes
-#+BEGIN_NOTE
+ #+BEGIN_NOTE
 140g papa 
 450g harina
 10g sal
@@ -50,5 +49,5 @@ Amasar y agregar por último la grasa. Estirar 2mm y cortar. Cocinar en horno a 
 130g huevos -aprox 2u-
 180g agua
 30g aceite
-
+Incorporar grasa al final y pesar los bollos 80-110g
 #+END_NOTE
