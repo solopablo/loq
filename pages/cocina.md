@@ -30,14 +30,14 @@ Durante siete días repetir el mismo procedimiento.
 Amasar y agregar por último la grasa. Estirar 2mm y cortar. Cocinar en horno a 180-200º. Se le pueden agregar semillas y presionar con palote.
 ###### Video original: https://www.youtube.com/watch?v=VFHk1FWSeic
 ## Pan con ((6075cfc6-9aa7-40b0-852e-7844e19577a2)) con/sin molde, con/sin semillas.
-#+BEGIN_INFO
+#+BEGIN_NOTE
 1k harina
 20g sal
 500g leche
 2 huevos (entre leche y huevos son 600g líquidos)
 100g manteca
 200g masa madre
-#+END_INFO
+#+END_NOTE
 #### Video con receta
 {{{youtube 9ur9iB9HkcI}}}
 ## Pan de papa para hamburguesa
