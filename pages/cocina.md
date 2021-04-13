@@ -19,9 +19,6 @@ Durante siete días repetir el mismo procedimiento.
 ##### Probar de hacer pan, pizza, pero agregar 1gr de levadura.
 ##### O hacer crackers (masa sirve para empanadas y tartas)
 ###### Ingredientes
-:PROPERTIES:
-:background_color: #978626
-:END:
 500g masa madre
 250g harina (integral, común, etc.) Con estos dos ingredientes tenemos 500g harina y 250g agua.
 10g sal
