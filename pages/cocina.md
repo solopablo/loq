@@ -10,4 +10,4 @@ Un frasco grande
 ### Proceso
 #### 1 día: 25g harina y 25g agua mezclar muy bien y llevar a heladera.
 Durante siete días repetir el mismo procedimiento.
-Al día ocho pasar 50
+Al día ocho pasar 50g de esa masa a otro frasco (o retirar el 80-90%)
