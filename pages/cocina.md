@@ -38,4 +38,4 @@ Amasar y agregar por último la grasa. Estirar 2mm y cortar. Cocinar en horno a 
 100g manteca
 200g masa madre
 #### Video con receta
- {{{youtube 9ur9iB9HkcI}}}
+{{{youtube 9ur9iB9HkcI}}}
