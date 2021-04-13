@@ -18,4 +18,5 @@ Durante siete días repetir el mismo procedimiento.
 #### Qué hacer con el primer sobrante
 ##### Probar de hacer pan, pizza, pero agregar 1gr de levadura.
 ##### O hacer crackers
-###### 1kg masa madre
+###### Ingredientes
+1kg masa madre
