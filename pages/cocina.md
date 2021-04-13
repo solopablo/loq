@@ -65,5 +65,5 @@ Incorporar grasa al final y pesar los bollos 80-110g
 22-28g sal -aprox-
 #+END_NOTE
 ### Proceso
-Iniciar desde el agua
+Iniciar desde el agua. Amasar de abajo arriba para incorporar aire. Tapar y dejar descansar 2
 ##
