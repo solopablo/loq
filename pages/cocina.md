@@ -37,7 +37,7 @@ Amasar y agregar por último la grasa. Estirar 2mm y cortar. Cocinar en horno a 
 2 huevos (entre leche y huevos son 600g líquidos)
 100g manteca
 200g masa madre
-#+END_TIP
+#+END_INFO
 #### Video con receta
 {{{youtube 9ur9iB9HkcI}}}
 ## Pan de papa para hamburguesa
