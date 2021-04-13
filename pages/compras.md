@@ -5,6 +5,7 @@ title: Compras
 ## Otros
 :PROPERTIES:
 :todo: 1618341745902
+:id: 6075ef2c-cf05-4de2-95a9-cf0f3b645b9f
 :END:
 ### TODO Tijera poda curva y recta
 ### TODO Pala chica
@@ -28,6 +29,9 @@ title: Compras
 :todo: 1618342001754
 :END:
 ## Almacen
+:PROPERTIES:
+:id: 607608ef-00b3-4f55-92dd-17ef126bcdfd
+:END:
 ### TODO Harina orgánica buena
 :PROPERTIES:
 :todo: 1618342094033
