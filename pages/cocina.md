@@ -14,3 +14,5 @@ Durante siete días repetir el mismo procedimiento.
 #### Guardado
 ##### Si uso cada 2 o 3 días dejar fuera de la heladera, de lo contrario guardar en heladera.
 ##### Guardar siempre 50g, de este modo el día que la utilice la alimento con 100 y 100, y espero que duplique.
+#### Qué hacer con el sobrante
+#####
