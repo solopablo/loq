@@ -6,4 +6,6 @@ title: Cocina
 ### Harina (integral orgánica mejor)
 Agua (mineral, filtrada, etc.)
 Un frasco grande
-### 1 día 25g
+### Proceso
+1 día: 25g harina y 25g agua
+2 día:
