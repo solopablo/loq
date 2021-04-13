@@ -3,7 +3,8 @@ title: Cocina
 ---
 
 ## Masa madre
-### Harina (integral orgánica mejor)
+### Ingredient
+Harina (integral orgánica mejor)
 Agua (mineral, filtrada, etc.)
 Un frasco grande
 ### Proceso
