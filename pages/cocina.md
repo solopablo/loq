@@ -23,3 +23,4 @@ Durante siete días repetir el mismo procedimiento.
 250g harina (integral, común, etc.) Con estos dos ingredientes tenemos 500g harina y 250g agua.
 10g sal
 50g grasa
+######
