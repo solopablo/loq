@@ -29,3 +29,5 @@ Amasar y agregar por último la grasa. Estirar 2mm y cortar. Cocinar en horno a 
 ## Pon con [[Masa madre]] con/sin molde, con/sin semillas
 ### Ingredientes
 1k harina
+20g sal
+500
