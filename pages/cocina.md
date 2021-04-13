@@ -45,4 +45,6 @@ Amasar y agregar por último la grasa. Estirar 2mm y cortar. Cocinar en horno a 
 140g papa 
 450g harina
 #+END_NOTE
-<<
+< #+BEGIN_EXPORT
+
+#+END_EXPORT
