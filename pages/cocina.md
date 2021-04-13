@@ -41,3 +41,4 @@ Amasar y agregar por último la grasa. Estirar 2mm y cortar. Cocinar en horno a 
 {{{youtube 9ur9iB9HkcI}}}
 ## Pan de papa para hamburguesa
 ### Ingredientes
+140g papa/
