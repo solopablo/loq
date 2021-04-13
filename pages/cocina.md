@@ -28,5 +28,4 @@ Amasar y agregar por último la grasa. Estirar 2mm y cortar. Cocinar en horno a 
 ###### Video original: https://www.youtube.com/watch?v=VFHk1FWSeic
 ## Pon con [[Masa madre]] con/sin molde, con/sin semillas
 ### Ingredientes
-#### 1k harina
-####
+1k harina
