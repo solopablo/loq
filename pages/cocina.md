@@ -3,10 +3,10 @@ title: Cocina
 ---
 
 ## Masa madre
-### Ingredient
+### Ingredientes
 Harina (integral orgánica mejor)
 Agua (mineral, filtrada, etc.)
 Un frasco grande
 ### Proceso
-1 día: 25g harina y 25g agua
+1 día: 25g harina y 25g agua mezclar muy bien y llevar a heladera.
 2 día:
