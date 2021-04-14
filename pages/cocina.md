@@ -68,4 +68,4 @@ Incorporar grasa al final y pesar los bollos 80-110g
 Iniciar desde el agua. Amasar de abajo arriba para incorporar aire. Tapar y dejar descansar 2 o 3 horas. Hacer bollos y llevar a heladera 24hs. Estirar los bollos a temperatura ambiente.
 ### Video original
 {{{youtube mm7btVGedpA}}}
-##
+## Receta de chucrut
