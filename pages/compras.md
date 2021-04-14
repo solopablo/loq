@@ -36,7 +36,3 @@ title: Compras
 :PROPERTIES:
 :todo: 1618342094033
 :END:
-### TODO Leche
-:PROPERTIES:
-:todo: 1618368011907
-:END:
