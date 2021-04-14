@@ -69,3 +69,4 @@ Iniciar desde el agua. Amasar de abajo arriba para incorporar aire. Tapar y deja
 ### Video original
 {{{youtube mm7btVGedpA}}}
 ## Receta de chucrut
+{{youtube UgtxuCIfMIw}}
