@@ -9,3 +9,4 @@ title: Películas
 ## Truman https://www.filmaffinity.com/es/film193232.html
 ## Starship Troopers https://www.filmaffinity.com/es/reviews/1/354305.html
 ## El otro hermano (ver en Cine Play)
+## Una pistola en cada mano https://www.filmaffinity.com/ar/film562367.html
