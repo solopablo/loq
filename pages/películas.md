@@ -2,8 +2,7 @@
 title: Películas
 ---
 
-## La Guerre Du Feu https://www.filmaffinity.com/es/film900019.html
-Breakdown https://www.filmaffinity.com/es/film788282.html
+## Breakdown https://www.filmaffinity.com/es/film788282.html
 The Boxer https://www.filmaffinity.com/es/reviews/1/567096.html
 Yongseoneun Eupda (No Mercy)  https://www.filmaffinity.com/es/film728889.html
 Le fils de Jean https://www.filmaffinity.com/es/reviews/1/384997.html
