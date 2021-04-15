@@ -8,6 +8,9 @@ title: Cocina
 :END:
 ### Ingredientes
 #### Harina (integral orgánica mejor)
+:PROPERTIES:
+:id: 607657c4-0d1a-4e5a-b80f-9dc9ae9dedea
+:END:
 Agua (mineral, filtrada, etc.)
 Un frasco grande
 ### Proceso
