@@ -36,4 +36,8 @@ title: Compras
 :PROPERTIES:
 :todo: 1618342094033
 :END:
+### TODO Queso crema o ricota?
+:PROPERTIES:
+:todo: 1618490897106
+:END:
 ## [[TODO]]
