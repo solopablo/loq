@@ -40,9 +40,10 @@ title: Compras
 :PROPERTIES:
 :todo: 1618490897106
 :END:
-### TODO Aceitunas
+### DONE Aceitunas
 :PROPERTIES:
 :todo: 1618539418518
+:done: 1618612957580
 :END:
 ### DONE Criollitas
 :PROPERTIES:
