@@ -44,9 +44,10 @@ title: Compras
 :PROPERTIES:
 :todo: 1618539418518
 :END:
-### TODO Criollitas
+### DONE Criollitas
 :PROPERTIES:
 :todo: 1618539425534
+:done: 1618612956410
 :END:
 ###
 ## [[TODO]]
