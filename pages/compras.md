@@ -36,9 +36,10 @@ title: Compras
 :PROPERTIES:
 :todo: 1618342094033
 :END:
-### TODO Queso crema
+### DONE Queso crema
 :PROPERTIES:
 :todo: 1618490897106
+:done: 1618612959046
 :END:
 ### DONE Aceitunas
 :PROPERTIES:
