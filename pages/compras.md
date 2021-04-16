@@ -40,4 +40,13 @@ title: Compras
 :PROPERTIES:
 :todo: 1618490897106
 :END:
+### TODO Aceitunas
+:PROPERTIES:
+:todo: 1618539418518
+:END:
+### TODO Criollitas
+:PROPERTIES:
+:todo: 1618539425534
+:END:
+###
 ## [[TODO]]
