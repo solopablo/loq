@@ -81,9 +81,10 @@ Iniciar desde el agua. Amasar de abajo arriba para incorporar aire. Tapar y deja
 1 huevo y 1 yema
 3g sal
 3g bicarbonato de sodio
-Mezclar bien todo hasta formar una crema homogénea, luego agregar
+- mezclar bien todo hasta formar una crema homogénea, luego agregar
 200g manteca fundida
-mezclar bien y sumar
+- mezclar bien y sumar
 250g harina 0000
+- llevar a heladera y enfriar bien para solidificar.
 
 #+END_NOTE
