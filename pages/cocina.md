@@ -73,4 +73,5 @@ Iniciar desde el agua. Amasar de abajo arriba para incorporar aire. Tapar y deja
 {{{youtube mm7btVGedpA}}}
 ## Receta de chucrut
 {{youtube UgtxuCIfMIw}}
-##
+## Galletitas con pepitas de chocolate
+###
