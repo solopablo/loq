@@ -81,5 +81,6 @@ Iniciar desde el agua. Amasar de abajo arriba para incorporar aire. Tapar y deja
 1 huevo y 1 yema
 3g sal
 3g bicarbonato de sodio
+200g manteca fundida
 
 #+END_NOTE
