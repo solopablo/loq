@@ -83,5 +83,7 @@ Iniciar desde el agua. Amasar de abajo arriba para incorporar aire. Tapar y deja
 3g bicarbonato de sodio
 Mezclar bien todo hasta formar una crema homogénea, luego agregar
 200g manteca fundida
+mezclar bien y sumar
+250g harina 0000
 
 #+END_NOTE
