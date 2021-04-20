@@ -79,5 +79,6 @@ Iniciar desde el agua. Amasar de abajo arriba para incorporar aire. Tapar y deja
 100g azúcar blanco
 150g azúcar mascabo
 1 huevo y 1 yema
-
+3g sal
+3g 
 #+END_NOTE
