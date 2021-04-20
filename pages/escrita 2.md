@@ -7,4 +7,5 @@ title: Escrita 2
 SCHEDULED: <2021-04-23 Fri 17:55>
 ### Clase 3 
 SCHEDULED: <2021-05-14 Fri 17:55>
-### Cla
+### Clase 4 
+SCHEDULED: <2021-05-28 Fri 17:55>
