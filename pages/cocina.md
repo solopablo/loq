@@ -76,5 +76,5 @@ Iniciar desde el agua. Amasar de abajo arriba para incorporar aire. Tapar y deja
 ## Galletitas con pepitas de chocolate
 ### 
 #+BEGIN_NOTE
-
+Azúcar blanco
 #+END_NOTE
