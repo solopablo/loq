@@ -74,7 +74,6 @@ Iniciar desde el agua. Amasar de abajo arriba para incorporar aire. Tapar y deja
 ## Receta de chucrut
 {{youtube UgtxuCIfMIw}}
 ## Galletitas con pepitas de chocolate
-### 
-#+BEGIN_NOTE
+### #+BEGIN_NOTE
 100g azúcar blanco
-#+END_NOTE
+### #+END_NOTE
