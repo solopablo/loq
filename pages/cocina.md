@@ -81,6 +81,7 @@ Iniciar desde el agua. Amasar de abajo arriba para incorporar aire. Tapar y deja
 1 huevo y 1 yema
 3g sal
 3g bicarbonato de sodio
+Mezclar bien todo hasta formar una crema homogénea, luego 
 200g manteca fundida
 
 #+END_NOTE
