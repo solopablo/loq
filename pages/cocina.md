@@ -80,5 +80,6 @@ Iniciar desde el agua. Amasar de abajo arriba para incorporar aire. Tapar y deja
 150g azúcar mascabo
 1 huevo y 1 yema
 3g sal
-3g 
+3g bicarbonato de sodio
+
 #+END_NOTE
