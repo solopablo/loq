@@ -3,4 +3,6 @@ title: Escrita 2
 ---
 
 ## Fechas de clases
-### [[Apr 23th, 2021]]
+### Clase 2 [[Apr 23th, 2021]]
+### Clase 3 [[Apr 30th, 2021]]
+### Cla
