@@ -3,7 +3,7 @@ title: Oral 1
 ---
 
 ## Fechas de clases
-### Clase 2 aoeu 
+### Clase 2 Cassany, D. (2005). Investigaciones y propuestas sobre literacidad actual: multiliteracidad, Internet y criticidad.
 SCHEDULED: <2021-04-30 Fri 17:55>
 ### Clase 3 
 SCHEDULED: <2021-05-21 Fri 17:55>
