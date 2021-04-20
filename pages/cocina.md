@@ -86,5 +86,4 @@ Iniciar desde el agua. Amasar de abajo arriba para incorporar aire. Tapar y deja
 - mezclar bien y sumar
 250g harina 0000
 - llevar a heladera y enfriar bien para solidificar.
-
 #+END_NOTE
