@@ -3,7 +3,9 @@ title: Escrita 2
 ---
 
 ## Fechas de clases
-### Clase 2 
+### Clase 2 Cassany, D. (2005). Investigaciones y propuestas sobre literacidad actual:
+multiliteracidad, Internet y criticidad.
+ 
 SCHEDULED: <2021-04-23 Fri 17:55>
 ### Clase 3 
 SCHEDULED: <2021-05-14 Fri 17:55>
