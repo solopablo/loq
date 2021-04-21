@@ -1,10 +1,17 @@
-## What's **Contents**?
-### It's a normal page called [[Contents]], you can use it for:
-#### 1. table of content/index/MOC
-#### 2. pinning/bookmarking favorites pages/blocks (e.g. [[Logseq]])
-#### 3. You can also put many different things, depending on your personal workflow.
-## [[Cocina]]
-### ((6075cfc6-9aa7-40b0-852e-7844e19577a2))
-## [[Compras]]
-### ((607608ef-00b3-4f55-92dd-17ef126bcdfd))
-### ((6075ef2c-cf05-4de2-95a9-cf0f3b645b9f))
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBVZVJSZ1lTbXpEclh0R1Qz
+dXVsZTUvNjNFdndheWRnOU5MTTdEZE0wSjFJCjFPeGk2KytlSk5jdzBOclA5Y3p4
+dDdqRjdncC9DeThXc0VYTVNnZjhab3cKLT4gOGkoIix5TnMtZ3JlYXNlIE5JIUBX
+biBhYjx+c3guOgozOG9xUmlWd2hpUlRQbGJ3cnczRAotLS0gdHQ3QTM1WkoxeHEy
+ZkhNZUg2SzJIbWtYRzBSa210SkVOUEc4dUt2SHlaVQrTimbTVhl8Q2lBqc6hVSd6
+39Y+Hzc6suM+HtaZm/s/g4UdsaNDs5fKIeIRZKpWsA56scWimNpEfu+huHbRyR92
+3rWKiPE8XmI8mvNBnI6R4xS+e22y5QT6XE4a/i4JEOwhNH+oWYpeSbJ1nmBTWRnC
+Yz65rRRQlR+yPmEn4CiPUnZjQKQsj3x8F0MK1uv28rnF7SEuin5WAVDE6Ow/EZuG
+Bh/C7dQNuAdw5VCFe9SxHIOJy/6VzT5WAwXmgf72uJSYSXErfZDj8plg/w46ONN/
+RtMYE8t2sazI/hA1liUpkXI7uOt3luz9ah5uBUoJCEhnCEZ+YgQFpO8xj1f869bC
+xpGR4HoepEPieo8ahp0ZPmix9sHlICa/6Uf6B/S71xIMCSI6COS6a2ggwNmkPqTX
+JGzJG8yKcYADwyKNSQ0ocuCmtQTmW6fPCL2X8pOE7mWPImi1FgODhiohIqDIELkd
+SjFwgPy0JGvcBAg6fQTjlrfXNIQRVOh+XwRxWVn1qaSIbE6p4dHP3/Ta1ITxu61p
+zEnHlrG9beavs1JFP7O5T0OD052k+TkSCTpeqmFUqM68rwuCwVwl86aVMpzh1//V
+mVvW02qiDHUyu2tF1MZaGuigcXAWZL/Sv4T2w35+9XIG16Si
+-----END AGE ENCRYPTED FILE-----
