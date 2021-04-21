@@ -1,88 +1,69 @@
-{;; Currently, we support either "Markdown" or "Org".
- ;; This can overwrite your global preference so that
- ;; maybe your personal preferred format is Org but you'd
- ;; need to use Markdown for some projects.
- ;; :preferred-format ""
- 
- ;; Preferred workflow style. 
- ;; Value is either ":now" for NOW/LATER style,
- ;; or ":todo" for TODO/DOING style.
- :preferred-workflow :todo
-
- ;; Git settings
- :git-pull-secs 60
- :git-push-secs 10
- :git-auto-push true
-
- ;; The app will ignore those directories or files.
- ;; E.g. "/archived" "/test.md"
- :hidden []
-
- ;; When creating the new journal page, the app will use your template content here.
- ;; Example for Markdown users: "## [[Work]]\n###\n## [[Family]]\n###\n
- ;; Example for Org mode users: "** [[Work]]\n***\n** [[Family]]\n***\n
- :default-templates
- {:journals ""}
-
- ;; The app will show those queries in today's journal page,
- ;; the "NOW" query asks the tasks which need to be finished "now",
- ;; the "NEXT" query asks the future tasks.
- :default-queries
- {:journals
-  [{:title "🔨 NOW"
-    :query [:find (pull ?h [*])
-            :in $ ?start ?today
-            :where
-            [?h :block/marker ?marker]
-            [?h :block/page ?p]
-            [?p :page/journal? true]
-            [?p :page/journal-day ?d]
-            [(>= ?d ?start)]
-            [(<= ?d ?today)]
-            [(contains? #{"NOW" "DOING"} ?marker)]]
-    :inputs [:14d :today]
-    :result-transform (fn [result]
-                        (sort-by (fn [h]
-                                   (get h :block/priority "Z")) result))
-    :collapsed? false}
-    {:title "next week deadline or schedule"
-    :query [:find (pull ?block [*])
-            :in $ ?start ?next
-            :where
-            (or
-              [?block :block/scheduled ?d]
-              [?block :block/deadline ?d])
-            [(> ?d ?start)]
-            [(< ?d ?next)]]
-    :inputs [:today :7d-after]
-    :collapsed? false}
-   {:title "📅 NEXT"
-    :query [:find (pull ?h [*])
-            :in $ ?start ?next
-            :where
-            [?h :block/marker ?marker]
-            [?h :block/ref-pages ?p]
-            [?p :page/journal? true]
-            [?p :page/journal-day ?d]
-            [(> ?d ?start)]
-            [(< ?d ?next)]
-            [(contains? #{"NOW" "LATER" "TODO"} ?marker)]]
-    :inputs [:today :7d-after]
-    :collapsed? false}]}
-
- ;; Add your own commands to speedup.
- ;; E.g. [["js" "Javascript"]]
- :commands
- []
-
- ;; Macros replace texts and will make you more productive.
- ;; For example:
- ;; Add this to the macros below:
- ;; {"poem" "Rose is $1, violet's $2. Life's ordered: Org assists you."}
- ;; input "{{{poem red,blue}}}"
- ;; becomes
- ;; Rose is red, violet's blue. Life's ordered: Org assists you.
- :macros {}
- :ui/show-brackets? true
- :feature/enable-encryption? true
- :feature/enable-timetracking? false}
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBtRmhrSW9pY1pzdHh2TTY2
+UExnWm0rRUI5U2l2ZGw3UUlES1dCcEhiNkQ4CmxyL2wvQkQ1QWczZHdmbURwUDVG
+dFV4ZS9EWkVSekFEbFBjeU5BRlc3NHMKLT4gRndeMEEtZ3JlYXNlIE5eQGtfTCAh
+UXw1IHZlPVYmSz9+CjZWTnZHZFdtTDU5UXo5ZEF3SWxQOUg2dUhIM3R2RzhyRGh2
+WE9ZWmJXU2RlSytLN1RhbjZnWlNsNEgzYnAyUHAKaTVUNmJaNjRWcWwrZXIrZ3Bt
+WGRnUTVGN1hKTTA5aVVyTm8KLS0tIEFPUW81WXd6WUFtbnZWWWc0SGVtYmZyeVBV
+M3dKUUFNdFZDOTV5OVcxTlEKUziz8ykcpbNAk/JtPeEL0WRA274saNYtf+DNwswZ
+QEwInkuacd83xGXb6SFBnUKHJNWeO+0uvZ2RNB2MngrJAUAQbErTIc04zh0izLFo
+8Wpz8z0PWtUqMrIhF8ccGaM/2kExijokDO3D+uJaLttyFSmDdvPLl+zv2+EVfQ0q
+s6+b3HxtxVjNfb8g31z0L+4silS41zr94kfrR21NiZlivlyCy943e8rVNhrAM87k
+jZQL1PsatrPAHmZrLlreuuBWfETfQHwIj9riLo9/OQeAw2WWqPa4q6D9q71FA5fu
+o+EKZ9nzUvWE1eZMgG7Od+CVhjGXPEAml5aYfndOdgKHHlDfdPIzkLmnTiA/qGiE
++NeCpqXmND/QF3n2JDn8bjtW0fnu0aXwKft5Oru77P6Dpgg6qEoWCCTu/MragKDR
+5kCgw9suq0DTAjlhXbEl6iABrev6gHh2Qmnw28PPMczmv1rZuaQ4h473vlaF2AXT
+IgWwoxk2UV39hxmQN1gwBsJm2k927oF/rlZEZC7bBkc20hGa1fGwuU1SXj9HFROz
+W2kEp0Y6dZdw/tIDyxfv+z88/qE7ueu6GGYiC9aSv3y5Kwz03QX8qRrIxnjL+gvH
+cerkY8+UjPJkhozeI3LiCii6CJOUD/tTQcl/3JOr5fsjVoFxrkC5SW6Sho3AWTah
+lqBYnccwk3VHo+4xCJcbSRExLGNb4mbKsljJ1wqAa9aJ++X01k6W2DTjKOxR7WX1
+d1f+TPq0YExyodbbgVqFb+onKdtQwmPmWJes3+bc4a4ktfz43aOgKv6d7akKnoVN
+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
+tpchdKBjyeVWodE=
+-----END AGE ENCRYPTED FILE-----
