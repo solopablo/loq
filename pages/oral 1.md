@@ -1,13 +1,12 @@
----
-title: Oral 1
----
-
-## Fechas de clases
-### Clase 2 Cassany, D. (2005). Investigaciones y propuestas sobre literacidad actual: multiliteracidad, Internet y criticidad.
-SCHEDULED: <2021-04-30 Fri 17:55>
-### Clase 3 
-SCHEDULED: <2021-05-21 Fri 17:55>
-### Clase 4 
-SCHEDULED: <2021-06-04 Fri 17:55>
-### Clase 5 
-SCHEDULED: <2021-06-18 Fri 17:55>
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBoTTdKamphZ1RsK0duczJB
+bUhhUXRhUjNONzRGSUo5ZG9RRmV3OG1VNTJ3Cks2clp0NmRxbkNEOE02RitLRXJo
+SDhkbXRIdDRZV2x2bytxOEtwZitscjgKLT4gbUIucDsmNkQtZ3JlYXNlCkRzOHdV
+NlZsWWxhVitwQ3kyTkE2Ci0tLSB5aEoyRVlkVXlSNm1VR3NUaG9XM2hubHV6NDdY
+UFRIL0RQWSsrbDNyN1NFCgH3U1AR1h43X7T52QyRx3d189i0/fmF2ejWqmthzt7k
+QxIUgy8D62++qBi5rjUYkqVE1wt5gt/52mog1zrU8aOGmVe9d5ATllH0BT4xWQFQ
+QWhpCg0eFJQMXF+DBjBS9E6veUrND7hDlTwGQR/PC0bHU6Y/YzFmdlzesgwLvMY2
+Un1W5W9bPoyrerLoR6vefWbuL/fMEqSXTHJrIfXVCEQNKNiZh8riIDuIfALDOSVi
+pIbrmXvjlDYB1OP07K8coxZweYbY/XiHA00kK/zTV9EC+AIvBDrB/hsGje4Xou3p
+qgm52XsjqoVRQd5+WImxUMQsvlkl7FumTu3uuWK9LnGZLYqOdrw=
+-----END AGE ENCRYPTED FILE-----
