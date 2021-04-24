@@ -1,21 +1,23 @@
----
-title: Escrita 2
----
-
-## Fechas de clases
-## Clase 2 Cassany, D. (2005). Investigaciones y propuestas sobre literacidad actual: multiliteracidad, Internet y criticidad 
-SCHEDULED: <2021-04-23 Fri 17:55>
-- Actividad
-Para generar un intercambio que enriquezca la clase cada una elaborará una respuesta para estas demandas:
-1. ¿Se da la biliteracidad en las personas sordas?
-2.Pensar una actividad para literacidad electrónca que favorezca la criticidad. Pensarla para estudiantes de 5to año secundario.
-### Clase 3 
-SCHEDULED: <2021-05-14 Fri 17:55>
-### Clase 4 
-SCHEDULED: <2021-05-28 Fri 17:55>
-### Clase 5 
-SCHEDULED: <2021-06-11 Fri 17:55>
-### Clase 6 
-SCHEDULED: <2021-06-25 Fri 17:55>
-### Clase 7 
-SCHEDULED: <2021-07-16 Fri 17:55>
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBTeHhxOC9RcFB0YlgyVVYv
+djBkVnJKNUxqN3pGR3FaeTdVRmRVYlJ6OUE0CmordWZNQUsxeXRvU01LQlAvb0Fv
+TWJlSklRTGtGNUkvUDAwYldjTzZtWDgKLT4gfWsvVDkkLWdyZWFzZQpBRmhJclN5
+d2t3Ci0tLSA4VXYyVmd5ZWZRTzN2TmRMZ0dCQ3cwWVptSHBFNS9oMi80cUJPU2NB
+WXBVCt5EJlkUEuPbh64QFCjXtL+f11urwG3lIdJRRhjqhbzkz3rzAb8tF1eTP/4u
+/mSwRRZ87iq3EQoG9Ku8DSl+sNjs0op9fsVkxnqTrxvFw9TS+8Krlt/16gXrP65l
+wprckHn3uJLw0t46QSsYUeeibhFRptRTtR/BAHWiTch3WqqThYSOBAAYARlAmObR
+nHBbUMgQo8yNknfc8fbsmmjMJ6khCtjp7MV/d6dtnvWus4X2BitKqaqpOy7y/U05
+rY8jkrxd3Gy/D6xo6JRc2JBGwwzQTJREycjjSIa/zV8bLP8ayJg7haDj/fJsLJ4s
+UV9TUoXnan6hC9OOfdjJydWV9v1AtEAGxlByr5+L4pdglbhPkH/CFnG9FAJbSAId
+VAsZSSeWzhU3yKDcsKLL2F7SUh93ESXt9hMmQ8h+k+U1ZBG2RKccPOKl6+pYmwIl
+v1DN7EfP8F671AT9elNT+3TtQ9S727RZM5yvamY5gPdLjSmEJKNXM7LtdKs1iE6P
+68znge9EwQQWMYbJmut8ykUJdASSUkGG0hgVAp2n8yYHZ7p+unMQ8RSFaoz85F2c
+OVNDd37mxWrhPGWhPdRX40urGTFHy6G80sVhz/abdNm/RBhWNycjDh2t0cX+rhy2
+ml8NQD6jl1XPjXmc1MWXT+k3h0PqhCi/EGKH7uNl1P/GD2aEzbLv7ad7K5BoLSKy
+s/R+WMRcKsPQBrtDxt3Whskrpg/oO2a4jGxrKE2Fhe3OL2Y+OyhuVQ3U75uKL3Os
+QUtsIEuEL2XWTdYJy7lC0GFVvxSra4Ktpjr97XDh+ryiNlCX5bCiF6WoWdm9GRN8
+uHrQS+dv8/oB9dBBzzvSH39WPDU6SDuplf4dIlYvlQwyMNqgpaZRJ8qGOvT0uLJs
+Y822R6sm/LNCmdghfr5IazrXxHcIATksoshMQ3iGuGk896lFYCO1AP/10+dfxIE/
+Hm0GyzdaUkxZHJ49P2cY9qu1xW780/Zaf+5Nzx6jodGoK8r6FuAaAULHKJ6YSWA2
+9stViIbSrg==
+-----END AGE ENCRYPTED FILE-----
