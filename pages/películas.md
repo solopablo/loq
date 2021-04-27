@@ -1,38 +1,29 @@
----
-title: Películas
----
-
-## TODO Breakdown https://www.filmaffinity.com/es/film788282.html
-:PROPERTIES:
-:todo: 1618885932849
-:END:
-## TODO The Boxer https://www.filmaffinity.com/es/reviews/1/567096.html
-:PROPERTIES:
-:todo: 1618885939870
-:END:
-## TODO Yongseoneun Eupda (No Mercy)  https://www.filmaffinity.com/es/film728889.html
-:PROPERTIES:
-:todo: 1618885943663
-:END:
-## TODO Le fils de Jean https://www.filmaffinity.com/es/reviews/1/384997.html
-:PROPERTIES:
-:todo: 1618885946451
-:END:
-## DONE Truman https://www.filmaffinity.com/es/film193232.html
-:PROPERTIES:
-:todo: 1618885949807
-:done: 1618885967329
-:END:
-## TODO Starship Troopers https://www.filmaffinity.com/es/reviews/1/354305.html
-:PROPERTIES:
-:todo: 1618885952735
-:END:
-## DONE El otro hermano (ver en Cine Play) Basada en el libro *Bajo este sol tremendo*
-:PROPERTIES:
-:todo: 1618885956840
-:done: 1618885962876
-:END:
-## TODO Una pistola en cada mano https://www.filmaffinity.com/ar/film562367.html
-:PROPERTIES:
-:todo: 1618885960339
-:END:
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBoMGtGeVhicXk4TnBqOWxJ
+bll3Qk5ncng4aWZsQmZLdmlEeFU4T2J4bDJZCk1sb1FHNGxqQUNLN2tQMnRqdlZY
+WGp0N2FtZ1VsTkFzTHV0VnZFSytsVzgKLT4gU1UvZ1dYLWdyZWFzZQpZR3V3ZnhF
+TTlFOUFpdnBDY0FISVpsb0RrOHBsUFNrQVJuS0hWK0JBNjB1NWljK3pTVVR5UGlS
+N3c0cXJjbkxrCkNMcwotLS0gRVpqRWhiT2Fyclk0VjlPZFgvREk4bDZqOVU5YjQz
+S01GN2p1TUs0aE1Ydwo5PP8tdV078QHtxDxsGvDiCNOh3UnVhAOGjHKkvpznd1j5
+oxxY7bSc86nMBmiM7dcSXoHsT1cqVSLZjGLyO8dgD/OBoVEQV3+kn6kAtELs8+7t
+hK9d4f2GVEKwFurK5SO/xkK7d1qpESDbfRrZdRNTKqL5sflZ3df2hcVAWe9sL4O2
+lOt0KQOgzwIERUCfJRDzflb4VKXB3IViSE1IANvmnbje+6ezqBrCQ9sSEp4vuKGu
+p7XanFlacpZTSJ7kFcRAY7WdQBLT4Z5zpa6uxX/k+V67elfe38xwBeVPIG8Nc8Eo
+//m2TDOJ2XD4jCrGH0Kdb4EiWztwZPxY7IVy4TuVESG8DYEaypuUJf1j460tANzL
+aFLvtKUHLnlLIM4O0Y9nUe4JsiIA2prM48B/hPOO9jFzMlpFNBZO97S4vFu0TFZg
+ysEsBNHZYoj3Nh74/dud/5NfCdJ4niAv4h/FT7Qim67SB5MZJWu/PrG8NCB2kiwz
+vjpSPizY2JciGs7x22kf3Fu+K5ssElT+H/uw3zReRKNyT8sM6/BYJ+x9hECkN0Ra
+DdQ07tZ54h5MCQe1KxxVih6iToOhpeo6jrfQJI5+01lGxLa/NVkiK2l+FJ5WIc1H
+A7AWSTTFrcZ90HPNwb7BeWB2Rc/s2xUI2ps749wWZDbP5sXQNQ1j9eIhFtMYhPeX
+UHpkip+6ZVuVI1Zh+hyGGi5xXCBWBa6C71/qmOQKwy5V6dQ568itnhK8uTmLzvXS
+7nJzE+UPWOyKGoMnLbQ81QSKKrZCfCT5fgYGUxczBpkRwrmVwRbOMZJrP9jt9fwh
+yGsduycmG/zvJ/y3GL2Z87f3YZNY1FALGgUXf92Me+lQighObNduGhX5bIPfJAm1
+aAW3fUZo52wfQb8FEMZlMD/TfaJrNtORfIBI2HPqASE/ACXwo5p4K7bS69HwKgaf
+PZvU8LWHtCAvyFyPs/DMtsI6TZ+HuHmz3qJaD7Zq3xT7SoK09w0f67oaOQ2vsNMF
+h7ukzn5EYRWK+pjgSPw79Yvw0qDYAg6idCgQw0KCxMVgCVfVp5TPvi7MF+bj23Rc
+gteZA4eQqioWmqS0JjAWbOLWAO15sidRfgJQQ/IrQ7pm7Bwicv7OyKThqYOltje7
+FbANBsuMdKeiioQhyCFC7LpSM34YdC59rnSutsYD9EMW7+Rod7jhW8GZvj077ZAp
+sbaLdrBotlb+WGGy7yEDlbixREz/ViL554TV2voWWbGNT2+EfQWZeR2pvVt8d652
+FoYQ/Jy385cRjSwZcKlZK0kTioVYiJ607+2uKYWf76GG5sZTfBe1tf3GWsXRaEoK
+WIc+PybX//Tg5zPH6pq454ByPg5SVL/fa1tMA4fzWBTrb0utUJMkjQ==
+-----END AGE ENCRYPTED FILE-----
