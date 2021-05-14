@@ -1,89 +1,73 @@
----
-title: Cocina
----
-
-## Masa madre
-:PROPERTIES:
-:id: 6075cfc6-9aa7-40b0-852e-7844e19577a2
-:END:
-### Ingredientes
-#### Harina (integral orgánica mejor)
-:PROPERTIES:
-:id: 607657c4-0d1a-4e5a-b80f-9dc9ae9dedea
-:END:
-Agua (mineral, filtrada, etc.)
-Un frasco grande
-### Proceso
-#### 1 día: 25g harina y 25g agua mezclar muy bien y llevar a heladera.
-Durante siete días repetir el mismo procedimiento.
-8 día: pasar 50g de esa masa a otro frasco (o retirar el 80-90%) y colocar 100g de agua y 100g harina (puede ser menos, por ejemplo: 30g masa, entonces 60g de agua y 60g harina). De manera que 1 parte de masa 2 de agua y 2 de harina. Marcar el frasco a la altura que queda la masa y guardar en heladera y medir cuánto tiempo demora en duplicar tamaño (4 horas está bien). Para saber si está estable, que es lo que buscamos, debe mantenerse duplicada el doble de lo que tardó en duplicarse (8 horas). Si no logramos estabilidad pasar nuevamente a dejar 50g y alimentar con 100 y 100, y repetir el proceso.
-### Guardado
-#### Si uso cada 2 o 3 días dejar fuera de la heladera, de lo contrario guardar en heladera.
-#### Guardar siempre 50g, de este modo el día que la utilice la alimento con 100 y 100, y espero que duplique.
-##### Se puede alimentar la noche anterior al uso.
-### Qué hacer con el primer sobrante
-#### Probar de hacer pan, pizza, pero agregar 1gr de levadura.
-#### O hacer crackers (masa que sirve para empanadas y tartas)
-##### Ingredientes
-500g masa madre
-250g harina (integral, común, etc.) Con estos dos ingredientes tenemos 500g harina y 250g agua.
-10g sal
-50g grasa
-##### Proceso
-Amasar y agregar por último la grasa. Estirar 2mm y cortar. Cocinar en horno a 180-200º. Se le pueden agregar semillas y presionar con palote.
-##### Video original
-{{{youtube VFHk1FWSeic}}}
-## Pan con ((6075cfc6-9aa7-40b0-852e-7844e19577a2)) con/sin molde, con/sin semillas.
-#+BEGIN_NOTE
-1k harina
-20g sal
-500g leche
-2 huevos (entre leche y huevos son 600g líquidos)
-100g manteca
-200g masa madre
-#+END_NOTE
-#### Video con receta
-{{{youtube 9ur9iB9HkcI}}}
-## Pan de papa para hamburguesa
- #+BEGIN_NOTE
-140g papa 
-450g harina
-10g sal
-30g azúcar
-40g levadura fresca o 15g seca
-130g huevos -aprox 2u-
-180g agua
-30g aceite
-Incorporar grasa al final y pesar los bollos 80-110g
-#+END_NOTE
-### Video original:
-{{{youtube Opw7GFIIphk}}}
-### Otro más completo
-{{{youtube 8INHpg6ucS4}}}
-## Pizza napolitana
-#+BEGIN_NOTE
-1k harina
-55-60%hidratación
-3g levadura
-22-28g sal -aprox-
-#+END_NOTE
-### Proceso
-Iniciar desde el agua. Amasar de abajo arriba para incorporar aire. Tapar y dejar descansar 2 o 3 horas. Hacer bollos y llevar a heladera 24hs. Estirar los bollos a temperatura ambiente.
-### Video original
-{{{youtube mm7btVGedpA}}}
-## Receta de chucrut
-{{youtube UgtxuCIfMIw}}
-## Galletitas con pepitas de chocolate
-### 
-#+BEGIN_NOTE
-100g azúcar blanco
-150g azúcar mascabo
-1 huevo y 1 yema
-3g sal
-3g bicarbonato de sodio
-- mezclar bien todo hasta formar una crema homogénea, luego agregar
-200g manteca fundida
-- mezclar bien y sumar
-250g harina 0000
-- llevar a heladera y enfriar bien para solidificar.
-#+END_NOTE
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBrOTBmS2FteDRscEJLbGU3
+cm9KdFRpZG5Td3NjQ3VuT0czYzhlY3RVdjFBCkNFOWJHOFpnOTV6cTJBTTc0Zit4
+WFJFajVteG9EZ29WQXlKUXBLVHN3M2cKLT4gQi1ncmVhc2UgPEhTKSA/c2w5CklX
+eUhyMzkzSUMvT0ZMRzhhdFFxUkxNMWpBYWdLU3NML293UjVqUTBvU0hoak56Z1Nm
+cDFIVzI4NmJLSXpnNEUKQUk1bXJta0Zqd0x4dDVTWHpnN0FvWFJYSW0wWEVTQQot
+LS0gT2IyUXFhWVdNZmM2T004VFkxZ1BDNG9MdVdURFM3WEd1TkJHd211UjMzawrr
+Zi2/HOZKcncVuBHZz7I4UpA6svBxK/ZQQchp0ylMcnU8J3INO7DCurRvSsNLZ4Ke
+4qqDwZic24IqU6+nSpTTfszcoLSWdoH4zMMKwj90q0ohHBAeY4jDqlAXrA4yykIY
+EQn5Dh+C9EF3Dox0L9wTArIOz5GrWh4fBLe44QhfnvOpC2Hk2CCrTV/J28k5/Y9n
+iy/2UfUZOXeLhWQhv+fPIzn+QVv05HwMl+ICULkkmqTv4li9C4IXPyE6osSkl+5f
+geQ2LxkBitos35ag6n69AmZrFWWqXRATPkSRu7ZOntb6YYxQd67vkc1K+I1OM75j
+UaQEwqepcPMuKgJF241xCglaHx5Q7FkDqvaq1lmTcHPDtLPunF3ypmYQCsCzb5WY
+TNAFNEgbmXIDR6j3ttaYj8y5kkZ/afSgrvS6Vk21a7bb/yiGuPR70wWP4TmbUUoh
+fEIvMrkxTMvo+OUdtxJyOFObi3hQOuRuvoLf2aCikE1glvD7M04fvFQcgr8pgESj
+bRySpnbVreSwGLeMX/xvcn4LZzdWCB33dGMEYNz+dudHqCCov/0WaGmPPoRibDbX
+OZ8E6yrwFoEfWqcPE3FkISPy7Gbszfv5LYGQSyQluUAFA0GQslUuAh9vmXu+pXXp
+2BlMRzhjKQsHuR6mXiw8JXd9lngn7lQGl607LZITJSJMWMYou9DmDzBGtewt61k6
+TBFNmZkKc4JeUjqI87Q+hunmcNe+l+g76c+6hM6Leo3QIcI8dJKc9QE2hD2YgAQT
+LduUDcn6+p9PSu36BZ+KDMCRe2ZnCn4mVOdoOh417h9b/H/UjBCA6sP2rHPpFWjp
+1CuLBQVkNSOdF6aQlSWoVbY8uURJmSU9wJ6QKTr13Yk+6NWD18mSwQUy/AMf6GBy
+ojK+z7CC3f+X6T5M/QNtremXT8hsmQAGSJ5S9XMPtmOwUxpMa76G0mPEP5LgZDFO
+OnhpLU9TF0LLXFcBSMLfiaEfKnN1vfqrbmARMrv8rS36SSIIerLcXUlCDh0odFSv
++6HgAH9kwg272GoH1dengZJnSKLjLrMRp8QUmab5ypaeGT/Sdra9PquFvMaj+s+3
+NyOeL31NxYcOtcBKDulFnkGJBOBLUzpviCAnHmMDFtoLW9Wu/rlseDP0j+tBv9qW
+dlP56zmn8rRcKTGU6ubqwG5iisZdmMcExPFxYx0phKGMS2rAL4lGxiwqutlYOMag
+IepF9/wD1k2OhQZs8C7L8O2rnWdAwaj++/qcvZlNy6rPJds8XhBjP2YMP7Sr6H0m
+T4sQVGGA14tnHcGXNVbYL/M0Zku6n+ElEZHT5ZKrlTkVMrQabrq7gbe0YQyHy4C3
+0z7ZAWchjn5kf6Z0iat5emzFSAmjaqFtlbY1E77XMAvlc6eH4Hi22JcDv+SywJn3
+ehYwIvYN/osxBsFS8CXOF+0ZnTTTCAFx24VoRnJLxNEFbRSnEAHpAuxIDgTfl2l8
+671nY2Xk6Pqnhf6184sAeNWJQY7LvUcjTDx4GzcY0G4YI5hDH+dkUEBLe+0+C77f
+IdkbFddUulYz+QUEWVjVsYlw0l0pOlnXNmBXNiqnRj4necmjLP29LR1jGTt0kkdX
+OSlCCtbJi6XsIBwyWOAtjB5DkUW8vFjK8KJPJ7cQROwS3foMrojwbhmXJ/IA8i3Y
+9rMgklOHy+1g71hryma09KKt5rMioGP00cQi9HHSF5EdhRMknfa+GJo9QyQ05Klf
+ymjJmhb23LOelm999ctvOPG1a1J5Kw4d1G+a0CyW+qyQdMsaFLn+wIopOpppKjkm
+YsU0McjqdYdmPMorKVQg5KaWShDWIQ7+WTLAhFPgN6TKGHjkldGMq3tyG4lDAhFK
+CfPxOHj2Pxpu483f2BtTyr+C63Ou75hFR9L9mpNjmTH527SKtg/FFbAqAx7DqgMo
+IGiCoZak75Gj0vrgKIV5wWeBwVPNZcj6Q4a+9qXvKIJmZfHsmxD7FwuoYmf6w99D
+B4V3trhljy0vw+bM2FKcbg8zBRxtP8BeNvQt5vpOCzSDMXFqZHYUZi0HqhfzV7JI
+nKA0RaO3XnFh019NP0wKQtgIJWdlqU0iL7jHZY2us26lM3RBEY00MfOEBrPlZvu2
+VuVq98SXMO8cGLGp53M3lsXXksJxQos91o+dQmbfYTwCMUu0e2VmMqqrCYQw26oI
+7xhhWLt/kSgW7N8XUxBkDU1rvOgzDh9eRZDMyqRzLbTMa4VcqAs/luZzd2pkoBFJ
+qsu1qPPf53KbP19Wt31GSu1rPJrf7Y9tUnbMXApdiGhAouytl+5WJI4qqfZ9XZvK
+YlZL0C+m44BFaTIuTky2qrxWD9EYjGKUyvjowLugos5UOwYXowjDhZF9fetSCxDG
+xffWCl9BDAf9bzZQt8t2UGaUfQQu3xev9wMyg6RV6piOxsrKPHgc5vIgpModDqWX
+4USkxJfAWv9tOY6xqAla/ZIpIEnEWFIHJD/mXAzp+pq2ktPOhB+ZIW+ovh/nmmnz
+GV07vv7aLcwHEXj0P3NPgkGqdpQFIfE7prOQ0cNBLokkdufQNgxtNLAsXLVj/eGd
+p33ZiWH6nSmttZn811DPFBcMmqxCzs89lgZ5xk/eg5b+rLzzTk8VjS0n7flPeXTj
+v9SqmsY30xP/205GBaVPwv2bxv6bEhn1gfD/RUtsUFFvKyVnHL+wnHQOUIQmOIMk
+nNTg46UgZMkbhseWrLa1i4cvfDy++j+TqNs47LR8pSwxFPGbcQQy+F6Rvtp36hNI
+sfQVSTUqJWxriuJV5C/KP9txUEICdqQ5eyO843/7jyGFYY2MbtbWIqp+wC6B5epC
+PZ2PNhnckWoBqg+LY1rj/S1W38qh33/1kjxd41Shm6G+c+EkQpGd+bTW/VYb5/3W
+Fh1S4YBfzEQ8rKUISXP8jpkqU9ZIBmi1BWqH79unSDsuIilzcfALixatnM6aP/eB
+X3tzKn68VTzfoo69ipVxGJ5uqIFNlDoFk+ZKmziVe9IGm5q9StPFCFa5wI3LCbef
+/tctVTWnKQ9bs3/PHjEIoDxbRnv8ZECv57DqOgL0lSk0pDw2aINqj/X6t+ekXV/s
+Y26yJzgPQeX2ww+ghlOYiMoj/C93hUUzEznFBwwv7UB6sK9gg05hybiuwPS36Swy
+5nJwrHlbtOZ89N8Q7oYITnpUFQP0GeXD5BiZrDsa+c7cQlKi+WqIMV1B+Dis/PuR
++75MrjcozV9hkwbAFyYhGOv/TZJQhOj7qtiPA0aUeryOF6HXCd89YTyBfafvuhRi
+9AkkagXq8j9md2HfEk6kvKtsZZTPQG8KPLtxVB2enQOCZLirxDaH+Vgwdc+NnB1y
+klyrDIc5Q01zk+beIMAxZhu1pe4jVjb58C8w2Lrq2cPrmeSrC5L52Q37Zd8Emwa+
+GeYCMyalK3VWO33hr5GiNxepWFmADCrlrGYrfnKYFchE0XF0YxUlfEbMfdahpGnR
+U62scpEo6dsiElER90DK0VYj+HTF4BNomGQIIN1W/aR3Y/ZLehDd6q8B4yd4J1se
+54fctPSvdd73xcf6SpzyNVYy/kE9zbVYblBs83HeevRX3q+b/bcKXVbTUPfetnPu
+vwbfmZfNvuq/Hg0iYECLVUNuieA1rMUn4xjrSVZIcMe3/AJR0C9vDyivf0wCQwgr
+5VzfNuiCDW751WHC3tXv5ej0H7IBPTBh3xDWbq1BVdzW9NvRqx5Zq9ng+glEtEXx
+xUmw6rpKMUaXEgvI90npNFyhR5e+3XtiW6OX3DGtMvgIP4v5vCq5+fpzEgeb9Wp1
+sw8RRROWrvBH2Of5gRfPm7TQwXK/PSC/fWA8DLPTp8dIu6vibLwBGqjSKcGPFLNY
+fzRdng2MvXXL2iFj6brYcO4kRgEqLGsr8iaILKuRapeS0rkmXzpfzJ9upE6yQ6qL
+MlRLBXqbEEblx/np8xFXMSil/ZVpPsRsXq1JogayYgfB5VmYILB4qJ2mBqpJcSRB
+MgHFWkABqDEfIX7sZri9JAIyE3WKOYur9qKPqpkMbK+aTxS1EAA/wdYSnK24tUYB
+FhEYAM8GTF0+sGBkPnk8Bie4cj7BEjexMUOj2SSiSYVfX0i8TMd9yt9Gg3W7u1/M
+Fa997X2/kXHBm8EA0B4K3xXICiwY5kJ93bA=
+-----END AGE ENCRYPTED FILE-----
